@@ -1,0 +1,19 @@
+Leilao (Leilao\Testes\Service\Leilao)
+ [x] Leilao nao deve receber lances repetidos
+ [x] Leilao nao deve aceitar mais de cinco lances por usuario
+ [x] Leilao deve receber lances with data set "2-Lances"
+ [x] Leilao deve receber lances with data set "1-Lance"
+
+Avaliador (Leilao\Testes\Service\Avaliador)
+ [x] Encontrando maior valor de lances with data set "ordem-crescente"
+ [x] Encontrando maior valor de lances with data set "ordem-decrescente"
+ [x] Encontrando maior valor de lances with data set "ordem-aleatória"
+ [x] Encontrando menor valor de lances with data set "ordem-crescente"
+ [x] Encontrando menor valor de lances with data set "ordem-decrescente"
+ [x] Encontrando menor valor de lances with data set "ordem-aleatória"
+ [x] Encontrar tres maiores valores de lances with data set "ordem-crescente"
+ [x] Encontrar tres maiores valores de lances with data set "ordem-decrescente"
+ [x] Encontrar tres maiores valores de lances with data set "ordem-aleatória"
+ [x] Leilao vazio nao pode ser avaliado
+ [x] Leilao finalizado nao pode ser avaliado
+
